@@ -199,7 +199,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("BACK", callback_data="help_data"),
                     InlineKeyboardButton("START", callback_data="start_data")],
-                [InlineKeyboardButton("SOURCE CODE", url="https://github.com/bdabot/Auto-Filter-Bot-V2")]
+                [InlineKeyboardButton("Youtube Channel", url="https://m.youtube.com/channel/UCRVFdrBy_I-_hNL3vgONbuQ")]
             ])
 
             await query.message.edit_text(
