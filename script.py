@@ -24,7 +24,7 @@ I hriat chian duh chuan heihi click rawh <i>help</i></b>"""
 
 
 <b>Bot Commands - Group ah chiah a work</b>
-(You need to be a Auth User in order to use these commands)
+(Hemi Command hmang tur hi chuan Auth users i nih ve a ngai)
 
 * <code>/add channelid</code>  -  Channel leh Group link rawh.
 or
@@ -33,24 +33,24 @@ or
 <i>NOTE : Hemi bot hmang hian channel ID a hriat theih @ChannelidHEXbot </i>
 
 
-* <code>/del channelid</code>  -  Delinks channel from group
+* <code>/del channelid</code>  -  Group atanga channel unlink na
 or
-* <code>/del @channelusername</code>  -  Delinks channel from group
+* <code>/del @channelusername</code>  -  Group atanga channel unlink na
 
-<i>NOTE : You can get connected channel details by <code>/filterstats</code> </i>
+<i>NOTE : Hemi hmang hian channel i connect details i hre thei ang <code>/filterstats</code> </i>
 
 
-* <code>/delall</code>  -  Removes all connected channels and filters from group!
+* <code>/delall</code>  -  Group atanga channel leh i filters te remove na!
 
 <i>Note : Dont add command delete bots in group! Otherwise, delall command wont work</i>
 
 
-* <code>/filterstats</code>  -  Check connected channels and number of filters.
+* <code>/filterstats</code>  -  Channel leh filters connect zat hriat na.
 
 
 
-No need add each filter again!
-Bot will automatically search for your files and give links to that!
+Filter te add reng angai tawhlo!
+Bot hian automatic in i files duh te a links nen alo pe zel tawh ang che!
 
 
 <b>© @Didiktea</b>"""
