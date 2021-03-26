@@ -3,34 +3,34 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+I duh chuan lynn Auto Filter Bot tih pawhin min ko thei ang duhtak :D
 
-This is Version 2 of Auto Filter Bot
+Heihi Version 2 of Auto Filter Bot ani. 
 
-Bot gives button link to files in connected channels on query !
+Bot hian channel in connect atang in file te ala khawm ang !
 
-No need to add filters for your files or movies from now on!
+Tunah chuan filter te add hranpa angai tawhlo ang movies leh files ah pawh!
 
-For more click <i>help</i></b>"""
+I hriat chian duh chuan heihi click rawh <i>help</i></b>"""
 
 
-    HELP_MSG = """<b>How to use the bot??</b>
+    HELP_MSG = """<b>Bot hman dab??</b>
 
 <i>
-* Add bot to your group with admin rights.
+* Bot hi group ah add la admin rights te pe rawh.
 
-* Add bot to channels which you want to link with <b>all admin rights</b>!
+* Bot hi channel i link duh ah admin tir rawh <b>all admin rights</b>!
 </i>
 
 
-<b>Bot Commands - Works in Group only</b>
+<b>Bot Commands - Group ah chiah a work</b>
 (You need to be a Auth User in order to use these commands)
 
-* <code>/add channelid</code>  -  Links channel to your group.
+* <code>/add channelid</code>  -  Channel leh Group link rawh.
 or
-* <code>/add @channelusername</code> - Links channel to your group.
+* <code>/add @channelusername</code> - Channel leh Group link rawh.
 
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
+<i>NOTE : Hemi bot hmang hian channel ID a hriat theih @ChannelidHEXbot </i>
 
 
 * <code>/del channelid</code>  -  Delinks channel from group
@@ -56,14 +56,14 @@ Bot will automatically search for your files and give links to that!
 <b>© @Didiktea</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : Lynn Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @Didiktea
+⭕️<b>Creator :</b> @Didiktea
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Youtube Channel :</b> <a href='https://m.youtube.com/channel/UCRVFdrBy_I-_hNL3vgONbuQ'>Youtube Channel</a> 
 
 """
