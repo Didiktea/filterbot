@@ -11,15 +11,15 @@ Bot hian channel in connect atang in file te ala khawm ang !
 
 Tunah chuan filter te add hranpa angai tawhlo ang movies leh files ah pawh!
 
-I hriat chian duh chuan heihi click rawh <i>help</i></b>"""
+I hriat chian duh chuan a hnuai a Help tih khu hmet rawh</b>"""
 
 
-    HELP_MSG = """<b>Bot hman dab??</b>
+    HELP_MSG = """<b>Bot hman dan??</b>
 
 <i>
-* Bot hi group ah add la admin rights te pe rawh.
+* Bot hi group ah add la admin ah dah rawh.
 
-* Bot hi channel i link duh ah admin tir rawh <b>all admin rights</b>!
+* Bot hi channel i link duh ah admin nih tir leh rawh <b>admin rights te on vek bawk la</b>!
 </i>
 
 
@@ -30,7 +30,7 @@ I hriat chian duh chuan heihi click rawh <i>help</i></b>"""
 or
 * <code>/add @channelusername</code> - Channel leh Group link rawh.
 
-<i>NOTE : Hemi bot hmang hian channel ID a hriat theih @ChannelidHEXbot </i>
+<i>NOTE : He bot hmang hian channel ID a hriat theih @ChannelidHEXbot </i>
 
 
 * <code>/del channelid</code>  -  Group atanga channel unlink na
